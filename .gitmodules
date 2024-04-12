@@ -35,3 +35,7 @@
 	path = ckanext-shopping-cart
 	url = ssh://git@github.com/BioplatformsAustralia/ckanext-shopping-cart
 	branch = master
+[submodule "ckanext-drs"]
+	path = ckanext-drs
+	url = ssh://git@github.com:tino097/ckanext-drs.git
+	branch = master
